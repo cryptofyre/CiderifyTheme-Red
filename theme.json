@@ -1,9 +1,9 @@
 {
-    "name": "Ciderify",
-    "description": "Theme inspired by Spotify",
+    "name": "Ciderify: Red Variant",
+    "description": "Theme inspired by Spotify and originally designed by booploops",
     "version": "1.0.0",
-    "author": "booploops",
-    "github_repo": "booploops/CiderifyTheme",
+    "author": "cryptofyre & booploops",
+    "github_repo": "cryptofyre/CiderifyTheme-Red",
     "directives": {
         "windowLayout": {
             "value": "twopanel"
